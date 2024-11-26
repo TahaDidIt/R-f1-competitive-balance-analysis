@@ -1,0 +1,26 @@
+>#### Variance ####
+>
+> rb.var <- var(redbull$position)
+> rb.var
+[1] 1
+
+> merc.var <- var(mercedes$position)
+> merc.var
+[1] 2.166667
+> #2014 -> 2021
+> merc.varbetweenregs <- var(mercedes$position[2:9])
+> merc.varbetweenregs
+[1] 0
+
+> ferrari.var <- var(ferrari$position)
+> ferrari.var
+[1] 1.307692
+
+> mclaren.var <- var (mclaren$position)
+> mclaren.var
+[1] 5.141026
+
+> williams.var <- var(williams$position)
+> williams.var
+[1] 7.089744
+> 
