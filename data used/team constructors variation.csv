@@ -1,0 +1,140 @@
+position,team_id,team_name,points,year
+1,1,Red Bull Racing RBPT,759,2022
+2,2,Ferrari,554,2022
+3,3,Mercedes,515,2022
+4,5,Alpine Renault,173,2022
+5,4,McLaren Mercedes,159,2022
+6,6,Alfa Romeo Ferrari,55,2022
+7,7,Aston Martin Aramco Mercedes,55,2022
+8,10,Haas Ferrari,37,2022
+9,9,AlphaTauri RBPT,35,2022
+10,8,Williams Mercedes,8,2022
+1,3,Mercedes,613.5,2021
+2,1,Red Bull Racing Honda,585.5,2021
+3,2,Ferrari,323.5,2021
+4,4,McLaren Mercedes,275,2021
+5,5,Alpine Renault,155,2021
+6,,AlphaTauri Honda,142,2021
+7,7,Aston Martin Mercedes,77,2021
+8,8,Williams Mercedes,23,2021
+9,,Alfa Romeo Racing Ferrari,13,2021
+10,,Haas Ferrari,0,2021
+1,3,Mercedes,573,2020
+2,1,Red Bull Racing Honda,319,2020
+3,4,McLaren Renault,202,2020
+4,7,Racing Point BWT Mercedes,195,2020
+5,5,Renault,181,2020
+6,2,Ferrari,131,2020
+7,,AlphaTauri Honda,107,2020
+8,,Alfa Romeo Racing Ferrari,8,2020
+9,,Haas Ferrari,3,2020
+10,8,Williams Mercedes,0,2020
+1,3,Mercedes,739,2019
+2,2,Ferrari,504,2019
+3,1,Red Bull Racing Honda,417,2019
+4,4,McLaren Renault,145,2019
+5,5,Renault,91,2019
+6,,Scuderia Toro Rosso Honda,85,2019
+7,7,Racing Point BWT Mercedes,73,2019
+8,,Alfa Romeo Racing Ferrari,57,2019
+9,,Haas Ferrari,28,2019
+10,8,Williams Mercedes,1,2019
+1,3,Mercedes,655,2018
+2,2,Ferrari,571,2018
+3,1,Red Bull Racing TAG Heuer,419,2018
+4,5,Renault,122,2018
+5,,Haas Ferrari,93,2018
+6,4,McLaren Renault,62,2018
+7,7,Force India Mercedes,52,2018
+8,,Sauber Ferrari,48,2018
+9,,Scuderia Toro Rosso Honda,33,2018
+10,8,Williams Mercedes,7,2018
+1,3,Mercedes,668,2017
+2,2,Ferrari,522,2017
+3,1,Red Bull Racing TAG Heuer,368,2017
+4,7,Force India Mercedes,187,2017
+5,8,Williams Mercedes,83,2017
+6,5,Renault,57,2017
+7,,Toro Rosso,53,2017
+8,,Haas Ferrari,47,2017
+9,4,McLaren Honda,30,2017
+10,,Sauber Ferrari,5,2017
+1,3,Mercedes,765,2016
+2,1,Red Bull Racing TAG Heuer,468,2016
+3,2,Ferrari,398,2016
+4,7,Force India Mercedes,173,2016
+5,8,Williams Mercedes,138,2016
+6,4,McLaren Honda,76,2016
+7,,Toro Rosso Ferrari,63,2016
+8,,Haas Ferrari,29,2016
+9,5,Renault,8,2016
+10,,Sauber Ferrari,2,2016
+11,,MRT Mercedes,1,2016
+1,3,Mercedes,703,2015
+2,2,Ferrari,428,2015
+3,8,Williams Mercedes,257,2015
+4,1,Red Bull Racing Renault,187,2015
+5,7,Force India Mercedes,136,2015
+6,,Lotus Mercedes,78,2015
+7,,STR Renault,67,2015
+8,,Sauber Ferrari,36,2015
+9,4,McLaren Honda,27,2015
+10,,Marussia Ferrari,0,2015
+1,3,Mercedes,701,2014
+2,1,Red Bull Racing Renault,405,2014
+3,8,Williams Mercedes,320,2014
+4,2,Ferrari,216,2014
+5,4,McLaren Mercedes,181,2014
+6,7,Force India Mercedes,155,2014
+7,,STR Renault,30,2014
+8,,Lotus Renault,10,2014
+9,,Marussia Ferrari,2,2014
+10,,Sauber Ferrari,0,2014
+11,,Caterham Renault,0,2014
+1,1,Red Bull Racing Renault,596,2013
+2,3,Mercedes,360,2013
+3,2,Ferrari,354,2013
+4,,Lotus Renault,315,2013
+5,4,McLaren Mercedes,122,2013
+6,7,Force India Mercedes,77,2013
+7,,Sauber Ferrari,57,2013
+8,,STR Ferrari,33,2013
+9,8,Williams Renault,5,2013
+10,,Marussia Cosworth,0,2013
+11,,Caterham Renault,0,2013
+1,1,Red Bull Racing Renault,460,2012
+2,2,Ferrari,400,2012
+3,4,McLaren Mercedes,378,2012
+4,,Lotus Renault,303,2012
+5,3,Mercedes,142,2012
+6,,Sauber Ferrari,126,2012
+7,7,Force India Mercedes,109,2012
+8,8,Williams Renault,76,2012
+9,,STR Ferrari,26,2012
+10,,Caterham Renault,0,2012
+11,,Marussia Cosworth,0,2012
+12,,HRT Cosworth,0,2012
+1,1,Red Bull Racing Renault,650,2011
+2,4,McLaren Mercedes,497,2011
+3,2,Ferrari,375,2011
+4,3,Mercedes,165,2011
+5,5,Renault,73,2011
+6,7,Force India Mercedes,69,2011
+7,,Sauber Ferrari,44,2011
+8,,STR Ferrari,41,2011
+9,8,Williams Cosworth,5,2011
+10,,Lotus Renault,0,2011
+11,,HRT Cosworth,0,2011
+12,,Virgin Cosworth,0,2011
+1,,RBR Renault,498,2010
+2,4,McLaren Mercedes,454,2010
+3,2,Ferrari,396,2010
+4,3,Mercedes,214,2010
+5,5,Renault,163,2010
+6,8,Williams Cosworth,69,2010
+7,7,Force India Mercedes,68,2010
+8,,Sauber Ferrari,44,2010
+9,,STR Ferrari,13,2010
+10,,Lotus Cosworth,0,2010
+11,,HRT Cosworth,0,2010
+12,,Virgin Cosworth,0,2010
